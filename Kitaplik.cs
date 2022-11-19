@@ -18,7 +18,7 @@ namespace Kitaplik_Proje
             InitializeComponent();
         }
 
-        OleDbConnection baglanti = new OleDbConnection(@"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\Samsung\Desktop\kitaplik.mdb");
+        OleDbConnection baglanti = new OleDbConnection(@"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=........");
 
         void listele()
         {
